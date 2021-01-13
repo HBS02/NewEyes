@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322231342087",
+    "firebase_url": "https://neweyes-27d53.firebaseio.com",
+    "project_id": "neweyes-27d53",
+    "storage_bucket": "neweyes-27d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322231342087:android:9bd72b84ac21fb044e06a2",
+        "android_client_info": {
+          "package_name": "Shin.neweyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322231342087-cb3c7p76hdkdvo2jv4qmcgihe1sdl8uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Shin.neweyes",
+            "certificate_hash": "51cacfbe0f10691bd5b47cef151d1023143d458c"
+          }
+        },
+        {
+          "client_id": "322231342087-n5tjcbjn5mo6m2udnj2gjghth714nvli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLd3ztVv1f72UCB_1ebXSMFT_WurVdJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322231342087-n5tjcbjn5mo6m2udnj2gjghth714nvli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "테마이름" parent = "Theme.AppCompat.Light.NoActionBar">
+    <item name="colorAccent">#FFFFFF</item>
+    <item name="colorControlNormal">#FFFFFF</item>
+    </style>
+</resources>
